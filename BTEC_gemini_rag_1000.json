@@ -1,0 +1,962 @@
+[
+  {
+    "instruction": "Điều kiện nhập học trường Đại học Bách Khoa Hà Nội?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Quy trình khám sức khỏe định kỳ cho sinh viên ĐH Y Hà Nội?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Quy định về điểm rèn luyện ở Đại học Quốc gia TP.HCM?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Cách đăng ký vé xe buýt miễn phí tại TP.HCM?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Quy trình khám sức khỏe định kỳ cho sinh viên ĐH Y Hà Nội?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Điều kiện nhập học trường Đại học Bách Khoa Hà Nội?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Quy định về 2. TỔ CHỨC ĐÀO TẠO a, Chế độ đào tạo , Tổ chức lớp học và Kế hoạch học là gì?",
+    "response": "Nhà trường tiến hành tổ chức phân lớp theo từng ngành học và từng đợt nhập học. Việc xếp lớp tuân thủ nguyên tắc: 30±5 sinh viên/lớp. Đầu mỗi học kỳ, Trường sẽ thông báo chương trình học cho sinh viên học trong học kỳ, lịch học dự kiến, đề cương chi tiết và các điều kiện để được tham dự từng môn học, lịch thi, hình thức đánh giá cuối môn đối với từng môn học.\n"
+  },
+  {
+    "instruction": "Điều kiện nào liên quan đến I. Các khoản học phí, phí:      1. Học phí:   a. Học phí Tiếng Anh thu?",
+    "response": "Học phí Tiếng Anh thu theo từng level, tính từ level đầu tiên sinh viên bắt đầu học tương ứng với các level sau: FUN, TN1, TN2, TN3, SM1. Mỗi level kéo dài 2 tháng.\n"
+  },
+  {
+    "instruction": "Quy định về c. Giới thiệu việc làm b. Tư vấn hướng nghiệp Phòng cung cấp thông tin là gì?",
+    "response": "Phòng cung cấp thông tin về các ngành nghề, cơ hội việc làm, xu hướng thị trường lao động. Tư vấn về quá trình tìm kiếm việc làm, viết CV, chuẩn bị phỏng vấn và xây dựng mạng lưới quan hệ với doanh nghiệp. Các việc làm sẽ cập nhật thường xuyên qua email, Page Phòng CTSV và Page QHDN.\n"
+  },
+  {
+    "instruction": "Điều kiện nào liên quan đến CÔNG TÁC SINH VIÊN  a. Câu lạc bộ Teambuilding, Dã ngoại Thủ lĩnh 1. H?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Quy định về I. Các khoản học phí, phí:      1. Học phí:   a. Học phí Tiếng Anh thu là gì?",
+    "response": "Học phí Tiếng Anh thu theo từng level, tính từ level đầu tiên sinh viên bắt đầu học tương ứng với các level sau: FUN, TN1, TN2, TN3, SM1. Mỗi level kéo dài 2 tháng.\n"
+  },
+  {
+    "instruction": "Hạn nộp hồ sơ đại học năm nay là ngày nào?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Quy định về 3 CƠ SỞ CẦN THƠ CƠ SỞ HCM CƠ SỞ HÀ NỘI CƠ SỞ ĐÀ NẴNG là gì?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Quy định về NGÀNH ĐÀO TẠO • Lập trình máy tính • Quản trị kinh doanh • Thiế là gì?",
+    "response": "Thông tin được cung cấp chỉ liệt kê các ngành đào tạo, không có quy định nào về các ngành này.\n"
+  },
+  {
+    "instruction": "Điều kiện nhập học trường Đại học Bách Khoa Hà Nội?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Chính sách học bổng của Đại học Kinh tế Quốc dân?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Cách đăng ký vé xe buýt miễn phí tại TP.HCM?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Điều kiện nhập học trường Đại học Bách Khoa Hà Nội?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Điều kiện nào liên quan đến 15 CÔNG TÁC SINH VIÊN  & QUAN HỆ DOANH NGHIỆP?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Quy định về a. Hướng dẫn làm Assignment môn học (chuyên ngành) Một số thuật ngữ As là gì?",
+    "response": "Quy định về Assignment (ASM):\n\n*   Bài luận thể hiện kiến thức của sinh viên đạt được qua môn học.\n*   Sinh viên chỉ đạt môn nếu bài ASM đạt từ Pass trở lên.\n"
+  },
+  {
+    "instruction": "Cách đăng ký môn học tự chọn tại Đại học Sư phạm Hà Nội?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Hạn nộp hồ sơ đại học năm nay là ngày nào?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Điều kiện nhập học trường Đại học Bách Khoa Hà Nội?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Cách đăng ký vé xe buýt miễn phí tại TP.HCM?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Chính sách học bổng của Đại học Kinh tế Quốc dân?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Quy định về HỆ THỐNG TÀI NGUYÊN HỌC TẬP FAP CMS EOS .fpi.edu.vn Bảng thông báo  là gì?",
+    "response": "HỆ THỐNG TÀI NGUYÊN HỌC TẬP FAP CMS EOS .fpi.edu.vn Bảng thông báo điện tử có các quy định sau:\n1. Xem lịch học, lịch thi, điểm, tiến độ học.\n2. Trả nợ môn.\n3. Đánh giá giảng viên.\n4. Đăng ký học vụ Online.\n"
+  },
+  {
+    "instruction": "Quy định về điểm rèn luyện ở Đại học Quốc gia TP.HCM?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Quy định về 3. ĐÁNH GIÁ MÔN HỌC a, Điều kiện tham gia đánh giá cuối môn học Sinh v là gì?",
+    "response": "Sinh viên phải đạt đủ điều kiện dự thi kết thúc môn học được quy định cụ thể trong đề cương (syllabus) của từng môn học. Sinh viên được dự thi kết thúc môn học (môn ngoại ngữ) hoặc được công nhận kết quả (với môn chuyên ngành và bổ trợ) phải đảm bảo tham dự ít nhất 80% thời gian học tập theo quy định.\n"
+  },
+  {
+    "instruction": "Nếu sinh viên quan tâm đến 2. TỔ CHỨC ĐÀO TẠO a, Chế độ đào tạo , Tổ chức lớp học và Kế hoạch học, cần chú ý gì?",
+    "response": "Dựa vào tài liệu, sinh viên cần chú ý những điều sau:\n\n*   Nhà trường tiến hành tổ chức phân lớp theo từng ngành học và từng đợt nhập học.\n*   Việc xếp lớp tuân thủ nguyên tắc: 30±5 sinh viên/ lớp.\n*   Đầu mỗi học kỳ, Trường sẽ thông báo chương trình học cho sinh viên học trong học kỳ, lịch học dự kiến, đề cương chi tiết và các điều kiện để được tham dự từng môn học, lịch thi, hình thức đánh giá cuối môn đối với từng môn học.\n"
+  },
+  {
+    "instruction": "Quy trình khám sức khỏe định kỳ cho sinh viên ĐH Y Hà Nội?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Chính sách học bổng của Đại học Kinh tế Quốc dân?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Hạn nộp hồ sơ đại học năm nay là ngày nào?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Quy định về điểm rèn luyện ở Đại học Quốc gia TP.HCM?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Hạn nộp hồ sơ đại học năm nay là ngày nào?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Cách đăng ký môn học tự chọn tại Đại học Sư phạm Hà Nội?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Quy định về điểm rèn luyện ở Đại học Quốc gia TP.HCM?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Chính sách học bổng của Đại học Kinh tế Quốc dân?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Mô tả chi tiết về: I. Các khoản học phí, phí:      1. Học phí:   a. Học phí Tiếng Anh thu",
+    "response": "Học phí Tiếng Anh thu theo từng level, tính từ level đầu tiên sinh viên bắt đầu học tương ứng với các level sau: FUN, TN1, TN2, TN3, SM1. Mỗi level kéo dài 2 tháng.\n"
+  },
+  {
+    "instruction": "Mức học phí của Đại học Ngoại thương năm 2025?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Quy định về điểm rèn luyện ở Đại học Quốc gia TP.HCM?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Điều kiện nhập học trường Đại học Bách Khoa Hà Nội?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Nếu sinh viên quan tâm đến HỆ THỐNG TÀI NGUYÊN HỌC TẬP FAP CMS EOS .fpi.edu.vn Bảng thông báo , cần chú ý gì?",
+    "response": "Sinh viên cần chú ý các thông tin sau về HỆ THỐNG TÀI NGUYÊN HỌC TẬP FAP CMS EOS .fpi.edu.vn Bảng thông báo:\n\n1. Xem lịch học, lịch thi, điểm, tiến độ học\n2. Trả nợ môn.\n3. Đánh giá giảng viên.\n4. Đăng ký học vụ Online.\n"
+  },
+  {
+    "instruction": "Nếu sinh viên quan tâm đến I. Các khoản học phí, phí:      1. Học phí:   a. Học phí Tiếng Anh thu, cần chú ý gì?",
+    "response": "Sinh viên cần chú ý học phí Tiếng Anh được thu theo từng level, tính từ level đầu tiên sinh viên bắt đầu học tương ứng với các level sau: FUN, TN1, TN2, TN3, SM1. Mỗi level kéo dài 2 tháng.\n"
+  },
+  {
+    "instruction": "Mức học phí của Đại học Ngoại thương năm 2025?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Làm sao để thực hiện đúng ĐĂNG KÝ CHUYỂN NGÀNH NHƯ THẾ NÀO?  KHI NÀO CÓ THỂ NGÀNH? CHI PHÍ CHUYỂ?",
+    "response": "Sinh viên chỉ cần đăng ký dịch vụ trên FAP hoặc trực tiếp tại phòng Dịch vụ sinh viên và nhận kết quả. Không có thông tin về thời gian và chi phí chuyển ngành.\n"
+  },
+  {
+    "instruction": "Chính sách học bổng của Đại học Kinh tế Quốc dân?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Mức học phí của Đại học Ngoại thương năm 2025?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Quy định về ĐĂNG KÝ CHUYỂN NGÀNH NHƯ THẾ NÀO?  KHI NÀO CÓ THỂ NGÀNH? CHI PHÍ CHUYỂ là gì?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Yêu cầu tiếng Anh để tốt nghiệp Đại học FPT?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Hạn nộp hồ sơ đại học năm nay là ngày nào?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Mô tả chi tiết về: ĐĂNG KÝ CHUYỂN NGÀNH NHƯ THẾ NÀO?  KHI NÀO CÓ THỂ NGÀNH? CHI PHÍ CHUYỂ",
+    "response": "Không có thông tin chi tiết về quy trình đăng ký chuyển ngành, thời gian có thể chuyển ngành và chi phí chuyển ngành trong tài liệu.\n"
+  },
+  {
+    "instruction": "Làm sao để thực hiện đúng a. Hướng dẫn làm Assignment môn học (chuyên ngành) Một số thuật ngữ As?",
+    "response": "Để thực hiện đúng a. Hướng dẫn làm Assignment môn học (chuyên ngành) Một số thuật ngữ As, bạn cần:\n\n1.  **Đọc ASM Brief:** Tài liệu này mô tả các yêu cầu của bài ASM.\n2.  **Nộp ASM Part 1 trước khi nộp Final Report.**\n3.  **Tuân thủ các mốc nộp bài ASM Part 1, ASM Part 2 và Final Report.** Các mốc này được giảng viên hướng dẫn trong buổi học đầu tiên.\n4.  **Nộp bài lên hệ thống CMS trước ASM Deadline.** Thời hạn này được quy định trong syllabus môn học.\n5.  **Khai báo đầy đủ và trung thực thông tin vào Frontsheet.** Tuân thủ các hướng dẫn của giảng viên trên lớp.\n6.  **Nếu Final Report bị Fail, bạn có thể nộp Second Chance.** Bạn sẽ có 3 ngày sau buổi học cuối cùng để điều chỉnh và nộp lại. Kết quả tối đa của Second Chance là Pass.\n"
+  },
+  {
+    "instruction": "Quy định về điểm rèn luyện ở Đại học Quốc gia TP.HCM?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Mô tả chi tiết về: PEARSON PLC Pearson PLC là một tổ chức giáo dục và khảo thí hàn",
+    "response": "PEARSON PLC là một tổ chức giáo dục và khảo thí hàng đầu thế giới, chuyên cung cấp giáo trình, phương tiện học tập, công nghệ, đánh giá và các dịch vụ liên quan cho giáo viên và sinh viên ở mọi cấp độ. Pearson PLC cũng là tổ chức hàng đầu trong việc cung cấp các chương trình đào tạo điện tử, phát triển đề thi, dịch vụ xử lý và đánh giá cho các tổ chức giáo dục và các cơ quan sự nghiệp trên khắp thế giới. Tổ chức Giáo dục Quốc tế Pearson là tổ chức cấp nhiều loại bằng cấp có giá trị công nhận quốc tế, từ những chứng chỉ học thuật như Pearson Edexcel GCSEs đến các chứng chỉ nghề nghiệp như Pearson BTEC giúp sinh viên có thể đạt được ước mơ hoài bão về học tập và sự nghiệp.\n"
+  },
+  {
+    "instruction": "Làm sao để thực hiện đúng MỤC LỤC 1.    GIỚI THIỆU CHUNG 3.   LỊCH SỬ HÌNH THÀNH 3.   BAN LÃNH Đ?",
+    "response": "Không có thông tin trong tài liệu về cách thực hiện theo mục lục đã cho.\n"
+  },
+  {
+    "instruction": "Điều kiện nhập học trường Đại học Bách Khoa Hà Nội?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Chính sách học bổng của Đại học Kinh tế Quốc dân?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Quy định về điểm rèn luyện ở Đại học Quốc gia TP.HCM?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Mô tả chi tiết về: HỆ THỐNG TÀI NGUYÊN HỌC TẬP FAP CMS EOS .fpi.edu.vn Bảng thông báo ",
+    "response": "HỆ THỐNG TÀI NGUYÊN HỌC TẬP FAP CMS EOS .fpi.edu.vn Bảng thông báo điện tử dùng để:\n\n1.  Xem lịch học, lịch thi, điểm, tiến độ học\n2.  Trả nợ môn.\n3.  Đánh giá giảng viên.\n4.  Đăng ký học vụ Online.\n"
+  },
+  {
+    "instruction": "Làm sao để thực hiện đúng 3. ĐÁNH GIÁ MÔN HỌC a, Điều kiện tham gia đánh giá cuối môn học Sinh v?",
+    "response": "Để thực hiện đúng điều kiện tham gia đánh giá cuối môn học, sinh viên cần:\n\n*   Đạt đủ điều kiện dự thi kết thúc môn học được quy định cụ thể trong đề cương (syllabus) của từng môn học.\n*   Đảm bảo tham dự ít nhất 80% thời gian học tập theo quy định để được dự thi kết thúc môn học (môn ngoại ngữ) hoặc được công nhận kết quả (với môn chuyên ngành và bổ trợ).\n"
+  },
+  {
+    "instruction": "Cách đăng ký vé xe buýt miễn phí tại TP.HCM?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Điều kiện nào liên quan đến 2. TỔ CHỨC ĐÀO TẠO a, Chế độ đào tạo , Tổ chức lớp học và Kế hoạch học?",
+    "response": "Dựa vào đoạn \"2. TỔ CHỨC ĐÀO TẠO a, Chế độ đào tạo , Tổ chức lớp học và Kế hoạch học:\", các điều kiện liên quan là:\n\n*   Nhà trường tiến hành tổ chức phân lớp theo từng ngành học và từng đợt nhập học.\n*   Việc xếp lớp tuân thủ nguyên tắc: 30±5 sinh viên/lớp.\n*   Đầu mỗi học kỳ, Trường sẽ thông báo chương trình học cho sinh viên học trong học kỳ, lịch học dự kiến, đề cương chi tiết và các điều kiện để được tham dự từng môn học, lịch thi, hình thức đánh giá cuối môn đối với từng môn học.\n"
+  },
+  {
+    "instruction": "Chính sách học bổng của Đại học Kinh tế Quốc dân?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Nếu sinh viên quan tâm đến MỤC LỤC 1.    GIỚI THIỆU CHUNG 3.   LỊCH SỬ HÌNH THÀNH 3.   BAN LÃNH Đ, cần chú ý gì?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Nếu sinh viên quan tâm đến CAO ĐẲNG ANH QUỐC  BTEC FPT Graduation Ceremony Được thành lập trên cơ, cần chú ý gì?",
+    "response": "Dựa vào các đoạn trên, sinh viên cần chú ý những điều sau nếu quan tâm đến CAO ĐẲNG ANH QUỐC BTEC FPT:\n\n*   BTEC FPT được thành lập trên cơ sở liên kết giữa Tổ chức giáo dục FPT Education và Tổ chức giáo dục và khảo thí Pearson – Vương Quốc Anh.\n*   BTEC FPT được công nhận là đơn vị đào tạo chính thức chương trình BTEC HND tại Việt Nam.\n*   BTEC FPT hướng đến triển khai chương trình nghề nghiệp bậc cao đẳng chuẩn Anh Quốc, đồng thời là chương trình cầu nối với chi phí thấp đến các Trường đại học hàng đầu tại Anh, Mỹ, Úc, Singapore, Nhật Bản... cũng như các Trường đại học tại Việt Nam.\n*   BTEC FPT đào tạo nguồn nhân lực chất lượng cao các khối ngành Lập trình máy tính, Quản trị kinh doanh, Thiết kế đồ họa, Công nghệ bán dẫn cho giai đoạn hội nhập toàn cầu.\n*   BTEC FPT chú trọng kỹ năng ngoại ngữ và phát triển kỹ năng nghề nghiệp, đưa công nghệ thông minh, đặc biệt là trí tuệ nhân tạo (AI) và các thành tựu khoa học vào giảng dạy.\n*   Nhà trường tiến hành tổ chức phân lớp theo từng ngành học và từng đợt nhập học với số lượng khoảng 30±5 sinh viên/lớp.\n*   Đầu mỗi học kỳ, Trường sẽ thông báo chương trình học, lịch học dự kiến, đề cương chi tiết, các điều kiện để được tham dự từng môn học, lịch thi và hình thức đánh giá cuối môn.\n"
+  },
+  {
+    "instruction": "Cách đăng ký vé xe buýt miễn phí tại TP.HCM?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Nếu sinh viên quan tâm đến 18 HSSV có hành vi vi phạm thì tùy tính chất, mức độ, hậu quả của hành, cần chú ý gì?",
+    "response": "HSSV có hành vi vi phạm thì tùy tính chất, mức độ, hậu quả của hành vi để xem xét phê bình hoặc áp dụng một trong 04 hình thức kỷ luật sau:\n\na) Khiển trách: Đối với HSSV có hành vi vi phạm lần đầu và mức độ nhẹ;\nb) Cảnh cáo: Đối với HSSV đã bị khiển trách mà tái phạm hoặc vi phạm mức độ nhẹ nhưng hành vi vi phạm có tính chất thường xuyên hoặc mới vi phạm lần đầu nhưng mức độ tương đối nghiêm trọng;\nc) Đình chỉ học tập có thời hạn: Đối với HSSV đang trong thời gian bị cảnh cáo mà vẫn vi phạm kỷ luật hoặc vi phạm nghiêm trọng các hành vi học sinh, sinh viên không được làm;\nd) Buộc thôi học: Đối với HSSV đang trong thời gian bị cảnh cáo mà vẫn tiếp tục vi phạm kỷ luật hoặc vi phạm lần đầu nhưng có tính chất và mức độ vi phạm rất nghiêm trọng hoặc có hành vi phạm tội theo quy định của Bộ luật hình sự.\n\nCần lưu ý: Các vi phạm nội quy kỳ thi sẽ được phổ biến trước khi thi.\n"
+  },
+  {
+    "instruction": "Mô tả chi tiết về: CAO ĐẲNG ANH QUỐC  BTEC FPT Graduation Ceremony Được thành lập trên cơ",
+    "response": "CAO ĐẲNG ANH QUỐC BTEC FPT Graduation Ceremony được thành lập trên cơ sở liên kết giữa Tổ chức giáo dục FPT Education và Tổ chức giáo dục và khảo thí Pearson – Vương Quốc Anh, được công nhận là đơn vị đào tạo chính thức chương trình BTEC HND tại Việt Nam. BTEC FPT hướng đến triển khai chương trình nghề nghiệp bậc cao đẳng chuẩn Anh Quốc, đồng thời là chương trình cầu nối với chi phí thấp đến các Trường đại học hàng đầu tại Anh, Mỹ, Úc, Singapore, Nhật Bản... cũng như các Trường đại học tại Việt Nam. Đào tạo nguồn nhân lực chất lượng cao các khối ngành Lập trình máy tính, Quản trị kinh doanh, Thiết kế đồ họa, Công nghệ bán dẫn cho giai đoạn hội nhập toàn cầu. Là chương trình đào tạo liên kết với Anh Quốc, Cao Đẳng Anh Quốc BTEC FPT mang sứ mệnh là cầu nối cho sinh viên Việt Nam được tiếp cận với chương trình đào tạo quốc tế, nền giáo dục tiến bộ và đẳng cấp trên thế giới. Đào tạo chương trình chuẩn quốc tế. Đào tạo toàn diện, đặc biệt chú trọng kỹ năng ngoại ngữ và phát triển kỹ năng nghề nghiệp, đưa công nghệ thông minh, đặc biệt là trí tuệ nhân tạo (AI) và các thành tựu khoa học vào giảng dạy.\n"
+  },
+  {
+    "instruction": "Chính sách học bổng của Đại học Kinh tế Quốc dân?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Cách đăng ký môn học tự chọn tại Đại học Sư phạm Hà Nội?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Mức học phí của Đại học Ngoại thương năm 2025?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Cách đăng ký vé xe buýt miễn phí tại TP.HCM?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Cách đăng ký môn học tự chọn tại Đại học Sư phạm Hà Nội?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Cách đăng ký vé xe buýt miễn phí tại TP.HCM?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Mức học phí của Đại học Ngoại thương năm 2025?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Quy định về Cao Đẳng Anh Quốc BTEC FPT Cao Đẳng Anh Quốc BTEC FPT là gì?",
+    "response": "Dựa trên thông tin trong tài liệu, Cao Đẳng Anh Quốc BTEC FPT:\n\n*   Được thành lập trên cơ sở liên kết giữa Tổ chức giáo dục FPT Education và Tổ chức giáo dục và khảo thí Pearson – Vương Quốc Anh.\n*   Được công nhận là đơn vị đào tạo chính thức chương trình BTEC HND tại Việt Nam.\n*   Hướng đến triển khai chương trình nghề nghiệp bậc cao đẳng chuẩn Anh Quốc, đồng thời là chương trình cầu nối với chi phí thấp đến các Trường đại học hàng đầu tại Anh, Mỹ, Úc, Singapore, Nhật Bản... cũng như các Trường đại học tại Việt Nam.\n*   Đào tạo nguồn nhân lực chất lượng cao các khối ngành Lập trình máy tính, Quản trị kinh doanh, Thiết kế đồ họa, Công nghệ bán dẫn cho giai đoạn hội nhập toàn cầu.\n*   Mang sứ mệnh là cầu nối cho sinh viên Việt Nam được tiếp cận với chương trình đào tạo quốc tế, nền giáo dục tiến bộ và đẳng cấp trên thế giới.\n*   Đào tạo chương trình chuẩn quốc tế.\n*   Đào tạo toàn diện, đặc biệt chú trọng kỹ năng ngoại ngữ và phát triển kỹ năng nghề nghiệp, đưa công nghệ thông minh, đặc biệt là trí tuệ nhân tạo (AI) và các thành tựu khoa học vào giảng dạy.\n"
+  },
+  {
+    "instruction": "Yêu cầu tiếng Anh để tốt nghiệp Đại học FPT?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Quy định về MỤC LỤC 1.    GIỚI THIỆU CHUNG 3.   LỊCH SỬ HÌNH THÀNH 3.   BAN LÃNH Đ là gì?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Mô tả chi tiết về: Cao Đẳng Anh Quốc BTEC FPT Cao Đẳng Anh Quốc BTEC FPT",
+    "response": "Cao Đẳng Anh Quốc BTEC FPT được thành lập trên cơ sở liên kết giữa Tổ chức giáo dục FPT Education và Tổ chức giáo dục và khảo thí Pearson – Vương Quốc Anh, được công nhận là đơn vị đào tạo chính thức chương trình BTEC HND tại Việt Nam. BTEC FPT hướng đến triển khai chương trình nghề nghiệp bậc cao đẳng chuẩn Anh Quốc, đồng thời là chương trình cầu nối với chi phí thấp đến các Trường đại học hàng đầu tại Anh, Mỹ, Úc, Singapore, Nhật Bản... cũng như các Trường đại học tại Việt Nam. Trường đào tạo nguồn nhân lực chất lượng cao các khối ngành Lập trình máy tính, Quản trị kinh doanh, Thiết kế đồ họa, Công nghệ bán dẫn cho giai đoạn hội nhập toàn cầu. BTEC FPT mang sứ mệnh là cầu nối cho sinh viên Việt Nam được tiếp cận với chương trình đào tạo quốc tế, nền giáo dục tiến bộ và đẳng cấp trên thế giới. Trường đào tạo chương trình chuẩn quốc tế, toàn diện, đặc biệt chú trọng kỹ năng ngoại ngữ và phát triển kỹ năng nghề nghiệp, đưa công nghệ thông minh, đặc biệt là trí tuệ nhân tạo (AI) và các thành tựu khoa học vào giảng dạy.\n"
+  },
+  {
+    "instruction": "Làm sao để thực hiện đúng HỆ THỐNG TÀI NGUYÊN HỌC TẬP FAP CMS EOS .fpi.edu.vn Bảng thông báo ?",
+    "response": "Để thực hiện đúng HỆ THỐNG TÀI NGUYÊN HỌC TẬP FAP CMS EOS .fpi.edu.vn Bảng thông báo, bạn có thể:\n\n1. Xem lịch học, lịch thi, điểm, tiến độ học.\n2. Trả nợ môn.\n3. Đánh giá giảng viên.\n4. Đăng ký học vụ Online.\n"
+  },
+  {
+    "instruction": "Cách đăng ký môn học tự chọn tại Đại học Sư phạm Hà Nội?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Hạn nộp hồ sơ đại học năm nay là ngày nào?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Điều kiện nào liên quan đến HỆ THỐNG TÀI NGUYÊN HỌC TẬP FAP CMS EOS .fpi.edu.vn Bảng thông báo ?",
+    "response": "Dựa vào đoạn tài liệu, các điều kiện liên quan đến HỆ THỐNG TÀI NGUYÊN HỌC TẬP FAP CMS EOS .fpi.edu.vn Bảng thông báo là:\n\n1. Xem lịch học, lịch thi, điểm, tiến độ học\n2. Trả nợ môn.\n3. Đánh giá giảng viên.\n4. Đăng ký học vụ Online.\n"
+  },
+  {
+    "instruction": "Cách đăng ký môn học tự chọn tại Đại học Sư phạm Hà Nội?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Điều kiện nhập học trường Đại học Bách Khoa Hà Nội?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Làm thế nào để xin visa du học Mỹ?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Mô tả chi tiết về: 3. ĐÁNH GIÁ MÔN HỌC a, Điều kiện tham gia đánh giá cuối môn học Sinh v",
+    "response": "Sinh viên phải đạt đủ điều kiện dự thi kết thúc môn học được quy định cụ thể trong đề cương (syllabus) của từng môn học. Sinh viên được dự thi kết thúc môn học (môn ngoại ngữ) hoặc được công nhận kết quả (với môn chuyên ngành và bổ trợ) phải đảm bảo tham dự ít nhất 80% thời gian học tập theo quy định.\n"
+  },
+  {
+    "instruction": "Quy định về điểm rèn luyện ở Đại học Quốc gia TP.HCM?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Làm sao để thực hiện đúng I. Các khoản học phí, phí:      1. Học phí:   a. Học phí Tiếng Anh thu?",
+    "response": "Học phí Tiếng Anh thu theo từng level, tính từ level đầu tiên sinh viên bắt đầu học tương ứng với các level sau: FUN, TN1, TN2, TN3, SM1. Mỗi level kéo dài 2 tháng.\n"
+  },
+  {
+    "instruction": "Mức học phí của Đại học Ngoại thương năm 2025?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Quy định về điểm rèn luyện ở Đại học Quốc gia TP.HCM?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Làm thế nào để xin visa du học Mỹ?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Mức học phí của Đại học Ngoại thương năm 2025?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Chính sách học bổng của Đại học Kinh tế Quốc dân?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Nếu sinh viên quan tâm đến c. Giới thiệu việc làm b. Tư vấn hướng nghiệp Phòng cung cấp thông tin, cần chú ý gì?",
+    "response": "Các việc làm sẽ cập nhật thường xuyên qua email, Page Phòng CTSV và Page QHDN.\n"
+  },
+  {
+    "instruction": "Quy định về điểm rèn luyện ở Đại học Quốc gia TP.HCM?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Quy trình khám sức khỏe định kỳ cho sinh viên ĐH Y Hà Nội?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Nếu sinh viên quan tâm đến ĐĂNG KÝ CHUYỂN NGÀNH NHƯ THẾ NÀO?  KHI NÀO CÓ THỂ NGÀNH? CHI PHÍ CHUYỂ, cần chú ý gì?",
+    "response": "Sinh viên cần đăng ký dịch vụ trên FAP hoặc trực tiếp tại phòng Dịch vụ sinh viên và nhận kết quả.\n"
+  },
+  {
+    "instruction": "Quy định về điểm rèn luyện ở Đại học Quốc gia TP.HCM?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Quy trình khám sức khỏe định kỳ cho sinh viên ĐH Y Hà Nội?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Quy trình khám sức khỏe định kỳ cho sinh viên ĐH Y Hà Nội?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Hạn nộp hồ sơ đại học năm nay là ngày nào?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Nếu sinh viên quan tâm đến 15 CÔNG TÁC SINH VIÊN  & QUAN HỆ DOANH NGHIỆP, cần chú ý gì?",
+    "response": "Dựa trên các đoạn nội dung được cung cấp, sinh viên quan tâm đến \"CÔNG TÁC SINH VIÊN & QUAN HỆ DOANH NGHIỆP\" cần chú ý đến các giải thưởng sau:\n\n*   “Hiệp sĩ BTEC”\n*   “Sinh viên xuất sắc”\n*   “Sinh viên hoạt động phong trào xuất sắc”\n*   “Câu lạc bộ xuất sắc”\n"
+  },
+  {
+    "instruction": "Chính sách học bổng của Đại học Kinh tế Quốc dân?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Cách đăng ký môn học tự chọn tại Đại học Sư phạm Hà Nội?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Làm sao để thực hiện đúng NGÀNH ĐÀO TẠO • Lập trình máy tính • Quản trị kinh doanh • Thiế?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Làm thế nào để xin visa du học Mỹ?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Điều kiện nào liên quan đến 3. ĐÁNH GIÁ MÔN HỌC a, Điều kiện tham gia đánh giá cuối môn học Sinh v?",
+    "response": "Sinh viên phải đạt đủ điều kiện dự thi kết thúc môn học được quy định cụ thể trong đề cương (syllabus) của từng môn học. Sinh viên được dự thi kết thúc môn học (môn ngoại ngữ) hoặc được công nhận kết quả (với môn chuyên ngành và bổ trợ) phải đảm bảo tham dự ít nhất 80% thời gian học tập theo quy định.\n"
+  },
+  {
+    "instruction": "Điều kiện nhập học trường Đại học Bách Khoa Hà Nội?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Quy định về QUAN HỆ DOANH NGHIỆP a. Hoạt động trải nghiệm: Workshop, Fieldtrip 19 là gì?",
+    "response": "Thông tin \"QUAN HỆ DOANH NGHIỆP a. Hoạt động trải nghiệm: Workshop, Fieldtrip 19\" có vẻ như là một tiêu đề hoặc một phần của bố cục tài liệu. Nội dung cụ thể về quy định liên quan đến hoạt động trải nghiệm Workshop, Fieldtrip không được cung cấp trong đoạn tài liệu này.\n"
+  },
+  {
+    "instruction": "Cách đăng ký vé xe buýt miễn phí tại TP.HCM?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Hạn nộp hồ sơ đại học năm nay là ngày nào?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Yêu cầu tiếng Anh để tốt nghiệp Đại học FPT?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Điều kiện nào liên quan đến a. Hướng dẫn làm Assignment môn học (chuyên ngành) Một số thuật ngữ As?",
+    "response": "Sinh viên chỉ đạt môn nếu bài ASM đạt từ Pass trở lên.\nSinh viên sẽ được GV hướng dẫn về assignment và các mốc nộp bài: ASM Part 1, ASM Part 2 và Final Report.\nSinh viên cần tuân thủ các mốc này.\nSinh viên chỉ được nộp Final Report nếu nộp ASM Part 1.\nĐiểm cuối môn học của sinh viên là điểm của Final Report. Sinh viên được nộp Final Report 2 lần/môn. Điểm bài second chance không vượt quá điểm P.\n"
+  },
+  {
+    "instruction": "Mô tả chi tiết về: c. Giới thiệu việc làm b. Tư vấn hướng nghiệp Phòng cung cấp thông tin",
+    "response": "Phòng cung cấp thông tin về các ngành nghề, cơ hội việc làm, xu hướng thị trường lao động. Tư vấn về quá trình tìm kiếm việc làm, viết CV, chuẩn bị phỏng vấn và xây dựng mạng lưới quan hệ với doanh nghiệp. Các việc làm sẽ cập nhật thường xuyên qua email, Page Phòng CTSV và Page QHDN.\n"
+  },
+  {
+    "instruction": "Nếu sinh viên quan tâm đến 3 CƠ SỞ CẦN THƠ CƠ SỞ HCM CƠ SỞ HÀ NỘI CƠ SỞ ĐÀ NẴNG, cần chú ý gì?",
+    "response": "Dựa trên thông tin trong tài liệu, sinh viên quan tâm đến 3 cơ sở Cần Thơ, Hồ Chí Minh, Hà Nội, Đà Nẵng cần chú ý đến:\n\n*   **Địa chỉ, Hotline và Email** của từng cơ sở được liệt kê trong phần \"CƠ CHẾ MỘT CỬA\" để liên hệ khi cần.\n*   Các dịch vụ cung cấp đến sinh viên theo CƠ CHẾ MỘT CỬA, sinh viên chỉ cần đăng ký dịch vụ trên FAP hoặc trực tiếp tại phòng Dịch vụ sinh viên và nhận kết quả.\n"
+  },
+  {
+    "instruction": "Làm sao để thực hiện đúng PEARSON PLC Pearson PLC là một tổ chức giáo dục và khảo thí hàn?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Hạn nộp hồ sơ đại học năm nay là ngày nào?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Điều kiện nhập học trường Đại học Bách Khoa Hà Nội?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Quy trình khám sức khỏe định kỳ cho sinh viên ĐH Y Hà Nội?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Làm sao để thực hiện đúng c. Giới thiệu việc làm b. Tư vấn hướng nghiệp Phòng cung cấp thông tin?",
+    "response": "Để thực hiện c. Giới thiệu việc làm b. Tư vấn hướng nghiệp, bạn cần:\n\n*   Phòng cung cấp thông tin về các ngành nghề, cơ hội việc làm, xu hướng thị trường lao động.\n*   Tư vấn về quá trình tìm kiếm việc làm, viết CV, chuẩn bị phỏng vấn và xây dựng mạng lưới quan hệ với doanh nghiệp.\n*   Các việc làm sẽ cập nhật thường xuyên qua email, Page Phòng CTSV và Page QHDN.\n"
+  },
+  {
+    "instruction": "Chính sách học bổng của Đại học Kinh tế Quốc dân?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Làm sao để thực hiện đúng 2. TỔ CHỨC ĐÀO TẠO a, Chế độ đào tạo , Tổ chức lớp học và Kế hoạch học?",
+    "response": "Để thực hiện đúng 2. TỔ CHỨC ĐÀO TẠO a, Chế độ đào tạo , Tổ chức lớp học và Kế hoạch học, cần tuân thủ các bước sau:\n\n*   Nhà trường tiến hành tổ chức phân lớp theo từng ngành học và từng đợt nhập học.\n*   Việc xếp lớp tuân thủ nguyên tắc: 30±5 sinh viên/ lớp.\n*   Đầu mỗi học kỳ, Trường sẽ thông báo chương trình học cho sinh viên học trong học kỳ, lịch học dự kiến, đề cương chi tiết và các điều kiện để được tham dự từng môn học, lịch thi, hình thức đánh giá cuối môn đối với từng môn học.\n"
+  },
+  {
+    "instruction": "Quy định về điểm rèn luyện ở Đại học Quốc gia TP.HCM?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Hạn nộp hồ sơ đại học năm nay là ngày nào?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Hạn nộp hồ sơ đại học năm nay là ngày nào?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Mô tả chi tiết về: 2. TỔ CHỨC ĐÀO TẠO a, Chế độ đào tạo , Tổ chức lớp học và Kế hoạch học",
+    "response": "Nhà trường tiến hành tổ chức phân lớp theo từng ngành học và từng đợt nhập học. Việc xếp lớp tuân thủ nguyên tắc: 30±5 sinh viên/lớp. Đầu mỗi học kỳ, Trường sẽ thông báo chương trình học cho sinh viên học trong học kỳ, lịch học dự kiến, đề cương chi tiết và các điều kiện để được tham dự từng môn học, lịch thi, hình thức đánh giá cuối môn đối với từng môn học.\n"
+  },
+  {
+    "instruction": "Mức học phí của Đại học Ngoại thương năm 2025?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Hạn nộp hồ sơ đại học năm nay là ngày nào?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Quy định về “Hiệp sĩ BTEC ” dành tặng cho 01 sinh viên có thành tích học tập, rèn  là gì?",
+    "response": "“Hiệp sĩ BTEC” dành tặng cho 01 sinh viên có thành tích học tập, rèn luyện xuất sắc nhất ngành học. Sinh viên có điểm tổng kết trung bình chung của học kỳ cao nhất trong toàn bộ các sinh viên của từng ngành (trong giai đoạn học chuyên ngành) tại cơ sở đào tạo đó.\n\nCác điều kiện bắt buộc thỏa mãn để được xét duyệt:\n* Trong các chuyên ngành phải có tối thiểu 2 điểm M trở lên.\n* Chỉ tính trên các môn học đi, không xét các môn học lại, thi lại hay thi cải thiện điểm.\n* Trong trường hợp các sinh viên có điểm bằng nhau thì xét đến thành tích khác học tập cũng như điểm rèn luyện, hoạt động phong trào do đánh giá của Phòng CTSV.\n* Sinh viên không vi phạm các quy chế, nội quy của Nhà trường trong học kỳ xét khen thưởng.\n"
+  },
+  {
+    "instruction": "Hạn nộp hồ sơ đại học năm nay là ngày nào?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Mô tả chi tiết về: a. Hướng dẫn làm Assignment môn học (chuyên ngành) Một số thuật ngữ As",
+    "response": "a. Hướng dẫn làm Assignment môn học (chuyên ngành) Một số thuật ngữ:\n\n*   **Assignment (ASM):** bài luận thể hiện kiến thức của sinh viên đạt được qua môn học. Sinh viên chỉ đạt môn nếu bài ASM đạt từ Pass trở lên.\n*   **ASM Brief:** tài liệu mô tả các yêu cầu của một bài ASM kèm theo.\n*   **ASM_Part 1 & 2:** một phần của bài ASM được phân chia theo mục đích nhất định phù hợp với tiến độ của sinh viên, thông thường mỗi một Part này sẽ chứa 2 Learning Outcome (LO) của môn học.\n*   **Final Report:** báo cáo cuối môn học, là bài làm cuối cùng của sinh viên và sẽ được dùng để đánh giá điểm cuối môn của sinh viên.\n*   **Second Chance:** dành cho sinh viên có kết quả của bài “Final Report” có kết quả Fail, sinh viên sẽ có thêm 3 ngày kể từ sau buổi học cuối cùng để điều chỉnh và nộp lại bài làm của mình. Kết quả của bài assignment second chance tối đa là Pass.\n*   **ASM Deadline:** thời hạn nộp bài được quy định theo syllabus môn học, sinh viên phải nộp bài lên hệ thống CMS trước “deadline” để được giảng viên đánh giá và công nhận kết quả.\n*   **Frontsheet:** phiếu thông tin bài làm, sinh viên cần khai báo đầy đủ và trung thực các thông tin của mình vào phiếu, tuân thủ các hướng dẫn của giảng viên trên lớp.\n\nTrong buổi học đầu tiên, sinh viên sẽ được GV hướng dẫn về assignment và các mốc nộp bài: ASM Part 1, ASM Part 2 và Final Report. Sinh viên cần tuân thủ các mốc này.\n\nSinh viên chỉ được nộp Final Report nếu nộp ASM Part 1.\n\nĐiểm cuối môn học của sinh viên là điểm của Final Report. Sinh viên được nộp Final Report 2 lần/môn. Điểm bài second chance không vượt quá điểm P.\n"
+  },
+  {
+    "instruction": "Điều kiện nhập học trường Đại học Bách Khoa Hà Nội?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Điều kiện nào liên quan đến NGÀNH ĐÀO TẠO • Lập trình máy tính • Quản trị kinh doanh • Thiế?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Mô tả chi tiết về: 15 CÔNG TÁC SINH VIÊN  & QUAN HỆ DOANH NGHIỆP",
+    "response": "Không có thông tin chi tiết nào về \"15 CÔNG TÁC SINH VIÊN & QUAN HỆ DOANH NGHIỆP\" trong tài liệu. Nó chỉ được liệt kê trong mục lục.\n"
+  },
+  {
+    "instruction": "Cách đăng ký vé xe buýt miễn phí tại TP.HCM?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Điều kiện nhập học trường Đại học Bách Khoa Hà Nội?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Mức học phí của Đại học Ngoại thương năm 2025?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Điều kiện nhập học trường Đại học Bách Khoa Hà Nội?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Điều kiện nhập học trường Đại học Bách Khoa Hà Nội?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Cách đăng ký môn học tự chọn tại Đại học Sư phạm Hà Nội?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Mức học phí của Đại học Ngoại thương năm 2025?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Làm sao để thực hiện đúng QUAN HỆ DOANH NGHIỆP a. Hoạt động trải nghiệm: Workshop, Fieldtrip 19?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Quy trình khám sức khỏe định kỳ cho sinh viên ĐH Y Hà Nội?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Làm thế nào để xin visa du học Mỹ?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Làm sao để thực hiện đúng CÔNG TÁC SINH VIÊN  a. Câu lạc bộ Teambuilding, Dã ngoại Thủ lĩnh 1. H?",
+    "response": "Không có thông tin trong tài liệu về cách thực hiện đúng \"CÔNG TÁC SINH VIÊN a. Câu lạc bộ Teambuilding, Dã ngoại Thủ lĩnh 1. H\".\n"
+  },
+  {
+    "instruction": "Mô tả chi tiết về: QUAN HỆ DOANH NGHIỆP a. Hoạt động trải nghiệm: Workshop, Fieldtrip 19",
+    "response": "Không có thông tin chi tiết về \"QUAN HỆ DOANH NGHIỆP a. Hoạt động trải nghiệm: Workshop, Fieldtrip 19\" trong tài liệu.\n"
+  },
+  {
+    "instruction": "Điều kiện nào liên quan đến MỤC LỤC 1.    GIỚI THIỆU CHUNG 3.   LỊCH SỬ HÌNH THÀNH 3.   BAN LÃNH Đ?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Quy định về CÔNG TÁC SINH VIÊN  a. Câu lạc bộ Teambuilding, Dã ngoại Thủ lĩnh 1. H là gì?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Quy trình khám sức khỏe định kỳ cho sinh viên ĐH Y Hà Nội?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Chính sách học bổng của Đại học Kinh tế Quốc dân?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Làm sao để thực hiện đúng 3 CƠ SỞ CẦN THƠ CƠ SỞ HCM CƠ SỞ HÀ NỘI CƠ SỞ ĐÀ NẴNG?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Hạn nộp hồ sơ đại học năm nay là ngày nào?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Nếu sinh viên quan tâm đến QUAN HỆ DOANH NGHIỆP a. Hoạt động trải nghiệm: Workshop, Fieldtrip 19, cần chú ý gì?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Mức học phí của Đại học Ngoại thương năm 2025?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Cách đăng ký môn học tự chọn tại Đại học Sư phạm Hà Nội?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Yêu cầu tiếng Anh để tốt nghiệp Đại học FPT?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Làm thế nào để xin visa du học Mỹ?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Mức học phí của Đại học Ngoại thương năm 2025?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Nếu sinh viên quan tâm đến Cao Đẳng Anh Quốc BTEC FPT Cao Đẳng Anh Quốc BTEC FPT, cần chú ý gì?",
+    "response": "Dựa trên tài liệu, sinh viên quan tâm đến Cao Đẳng Anh Quốc BTEC FPT Cao Đẳng Anh Quốc BTEC FPT cần chú ý những điều sau:\n\n*   Đó là đơn vị đào tạo chính thức chương trình BTEC HND tại Việt Nam.\n*   Chương trình hướng đến đào tạo nghề nghiệp bậc cao đẳng chuẩn Anh Quốc.\n*   Chương trình là cầu nối với chi phí thấp đến các Trường đại học hàng đầu tại Anh, Mỹ, Úc, Singapore, Nhật Bản... cũng như các Trường đại học tại Việt Nam.\n*   Đào tạo nguồn nhân lực chất lượng cao các khối ngành Lập trình máy tính, Quản trị kinh doanh, Thiết kế đồ họa, Công nghệ bán dẫn.\n*   Chương trình đào tạo liên kết với Anh Quốc.\n*   Chú trọng kỹ năng ngoại ngữ và phát triển kỹ năng nghề nghiệp.\n*   Đưa công nghệ thông minh, đặc biệt là trí tuệ nhân tạo (AI) và các thành tựu khoa học vào giảng dạy.\n"
+  },
+  {
+    "instruction": "Quy trình khám sức khỏe định kỳ cho sinh viên ĐH Y Hà Nội?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Mức học phí của Đại học Ngoại thương năm 2025?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Mô tả chi tiết về: NGÀNH ĐÀO TẠO • Lập trình máy tính • Quản trị kinh doanh • Thiế",
+    "response": "Không có thông tin chi tiết nào về các ngành đào tạo: Lập trình máy tính, Quản trị kinh doanh, Thiết kế đồ họa và Kỹ thuật - Công nghệ bán dẫn trong tài liệu. Chỉ liệt kê tên các ngành.\n"
+  },
+  {
+    "instruction": "Quy trình khám sức khỏe định kỳ cho sinh viên ĐH Y Hà Nội?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Hạn nộp hồ sơ đại học năm nay là ngày nào?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Làm thế nào để xin visa du học Mỹ?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Chính sách học bổng của Đại học Kinh tế Quốc dân?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Mức học phí của Đại học Ngoại thương năm 2025?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Quy định về CAO ĐẲNG ANH QUỐC  BTEC FPT Graduation Ceremony Được thành lập trên cơ là gì?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Cách đăng ký vé xe buýt miễn phí tại TP.HCM?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Cách đăng ký vé xe buýt miễn phí tại TP.HCM?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Yêu cầu tiếng Anh để tốt nghiệp Đại học FPT?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Làm thế nào để xin visa du học Mỹ?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Cách đăng ký vé xe buýt miễn phí tại TP.HCM?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Điều kiện nào liên quan đến PEARSON PLC Pearson PLC là một tổ chức giáo dục và khảo thí hàn?",
+    "response": "PEARSON PLC là một tổ chức giáo dục và khảo thí hàng đầu thế giới, chuyên cung cấp giáo trình, phương tiện học tập, công nghệ, đánh giá và các dịch vụ liên quan cho giáo viên và sinh viên ở mọi cấp độ. PEARSON PLC cũng là tổ chức hàng đầu trong việc cung cấp các chương trình đào tạo điện tử, phát triển đề thi, dịch vụ xử lý và đánh giá cho các tổ chức giáo dục và các cơ quan sự nghiệp trên khắp thế giới.\n"
+  },
+  {
+    "instruction": "Mức học phí của Đại học Ngoại thương năm 2025?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Làm sao để thực hiện đúng “Hiệp sĩ BTEC ” dành tặng cho 01 sinh viên có thành tích học tập, rèn ?",
+    "response": "Để thực hiện đúng \"Hiệp sĩ BTEC\" dành tặng cho 01 sinh viên có thành tích học tập, rèn luyện xuất sắc nhất, cần tuân thủ các điều kiện sau:\n\n*   Sinh viên phải có điểm tổng kết trung bình chung của học kỳ cao nhất trong toàn bộ các sinh viên của từng ngành (trong giai đoạn học chuyên ngành) tại cơ sở đào tạo đó.\n*   Trong các chuyên ngành phải có tối thiểu 2 điểm M trở lên.\n*   Chỉ tính trên các môn học đi, không xét các môn học lại, thi lại hay thi cải thiện điểm.\n*   Trong trường hợp các sinh viên có điểm bằng nhau thì xét đến thành tích khác học tập cũng như điểm rèn luyện, hoạt động phong trào do đánh giá của Phòng CTSV.\n*   Sinh viên không vi phạm các quy chế, nội quy của Nhà trường trong học kỳ xét khen thưởng.\n"
+  },
+  {
+    "instruction": "Làm thế nào để xin visa du học Mỹ?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Chính sách học bổng của Đại học Kinh tế Quốc dân?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Điều kiện nào liên quan đến “Hiệp sĩ BTEC ” dành tặng cho 01 sinh viên có thành tích học tập, rèn ?",
+    "response": "Để đạt danh hiệu \"Hiệp sĩ BTEC\", sinh viên cần thỏa mãn các điều kiện sau:\n\n*   Có điểm tổng kết trung bình chung của học kỳ cao nhất trong toàn bộ các sinh viên của từng ngành (trong giai đoạn học chuyên ngành) tại cơ sở đào tạo đó.\n*   Trong các chuyên ngành phải có tối thiểu 2 điểm M trở lên.\n*   Chỉ tính trên các môn học đi, không xét các môn học lại, thi lại hay thi cải thiện điểm.\n*   Trong trường hợp các sinh viên có điểm bằng nhau thì xét đến thành tích khác học tập cũng như điểm rèn luyện, hoạt động phong trào do đánh giá của Phòng CTSV.\n*   Sinh viên không vi phạm các quy chế, nội quy của Nhà trường trong học kỳ xét khen thưởng.\n"
+  },
+  {
+    "instruction": "Quy trình khám sức khỏe định kỳ cho sinh viên ĐH Y Hà Nội?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Quy trình khám sức khỏe định kỳ cho sinh viên ĐH Y Hà Nội?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Quy định về 18 HSSV có hành vi vi phạm thì tùy tính chất, mức độ, hậu quả của hành là gì?",
+    "response": "HSSV có hành vi vi phạm thì tùy tính chất, mức độ, hậu quả của hành vi để xem xét phê bình hoặc áp dụng một trong 04 hình thức kỷ luật sau:\na) Khiển trách: Đối với HSSV có hành vi vi phạm lần đầu và mức độ nhẹ;\nb) Cảnh cáo: Đối với HSSV đã bị khiển trách mà tái phạm hoặc vi phạm mức độ nhẹ nhưng hành vi vi phạm có tính chất thường xuyên hoặc mới vi phạm lần đầu nhưng mức độ tương đối nghiêm trọng;\nc) Đình chỉ học tập có thời hạn: Đối với HSSV đang trong thời gian bị cảnh cáo mà vẫn vi phạm kỷ luật hoặc vi phạm nghiêm trọng các hành vi học sinh, sinh viên không được làm;\nd) Buộc thôi học: Đối với HSSV đang trong thời gian bị cảnh cáo mà vẫn tiếp tục vi phạm kỷ luật hoặc vi phạm lần đầu nhưng có tính chất và mức độ vi phạm rất nghiêm trọng hoặc có hành vi phạm tội theo quy định của Bộ luật hình sự.\n"
+  },
+  {
+    "instruction": "Chính sách học bổng của Đại học Kinh tế Quốc dân?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Cách đăng ký môn học tự chọn tại Đại học Sư phạm Hà Nội?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Hạn nộp hồ sơ đại học năm nay là ngày nào?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Yêu cầu tiếng Anh để tốt nghiệp Đại học FPT?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Chính sách học bổng của Đại học Kinh tế Quốc dân?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Nếu sinh viên quan tâm đến 3. ĐÁNH GIÁ MÔN HỌC a, Điều kiện tham gia đánh giá cuối môn học Sinh v, cần chú ý gì?",
+    "response": "Sinh viên cần chú ý:\n\n*   Đạt đủ điều kiện dự thi kết thúc môn học được quy định cụ thể trong đề cương (syllabus) của từng môn học.\n*   Đảm bảo tham dự ít nhất 80% thời gian học tập theo quy định để được dự thi kết thúc môn học (môn ngoại ngữ) hoặc được công nhận kết quả (với môn chuyên ngành và bổ trợ).\n"
+  },
+  {
+    "instruction": "Điều kiện nào liên quan đến 3 CƠ SỞ CẦN THƠ CƠ SỞ HCM CƠ SỞ HÀ NỘI CƠ SỞ ĐÀ NẴNG?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Làm sao để thực hiện đúng 15 CÔNG TÁC SINH VIÊN  & QUAN HỆ DOANH NGHIỆP?",
+    "response": "Để thực hiện đúng 15 CÔNG TÁC SINH VIÊN & QUAN HỆ DOANH NGHIỆP, bạn có thể:\n\n*   Tìm hiểu thông tin về các ngành nghề, cơ hội việc làm, xu hướng thị trường lao động từ phòng.\n*   Nhận tư vấn về quá trình tìm kiếm việc làm, viết CV, chuẩn bị phỏng vấn và xây dựng mạng lưới quan hệ với doanh nghiệp.\n*   Theo dõi các việc làm được cập nhật thường xuyên qua email, Page Phòng CTSV và Page QHDN.\n"
+  },
+  {
+    "instruction": "Mức học phí của Đại học Ngoại thương năm 2025?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Làm thế nào để xin visa du học Mỹ?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Mô tả chi tiết về: CÔNG TÁC SINH VIÊN  a. Câu lạc bộ Teambuilding, Dã ngoại Thủ lĩnh 1. H",
+    "response": "Thông tin về \"CÔNG TÁC SINH VIÊN a. Câu lạc bộ Teambuilding, Dã ngoại Thủ lĩnh 1. H\" rất hạn chế. Tài liệu chỉ liệt kê \"Teambuilding, Dã ngoại Thủ lĩnh\" dưới mục \"Câu lạc bộ\" của \"CÔNG TÁC SINH VIÊN\" và có số \"1.\" đi kèm chữ \"H\".\n"
+  },
+  {
+    "instruction": "Nếu sinh viên quan tâm đến “Hiệp sĩ BTEC ” dành tặng cho 01 sinh viên có thành tích học tập, rèn , cần chú ý gì?",
+    "response": "Sinh viên quan tâm đến “Hiệp sĩ BTEC” cần chú ý:\n\n*   Có thành tích học tập, rèn luyện xuất sắc nhất ngành học.\n*   Có điểm tổng kết trung bình chung của học kỳ cao nhất trong toàn bộ các sinh viên của từng ngành (trong giai đoạn học chuyên ngành) tại cơ sở đào tạo đó.\n*   Trong các chuyên ngành phải có tối thiểu 2 điểm M trở lên.\n*   Chỉ tính trên các môn học đi, không xét các môn học lại, thi lại hay thi cải thiện điểm.\n*   Trong trường hợp các sinh viên có điểm bằng nhau thì xét đến thành tích khác học tập cũng như điểm rèn luyện, hoạt động phong trào do đánh giá của Phòng CTSV.\n*   Không vi phạm các quy chế, nội quy của Nhà trường trong học kỳ xét khen thưởng.\n"
+  },
+  {
+    "instruction": "Điều kiện nào liên quan đến ĐĂNG KÝ CHUYỂN NGÀNH NHƯ THẾ NÀO?  KHI NÀO CÓ THỂ NGÀNH? CHI PHÍ CHUYỂ?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Mô tả chi tiết về: MỤC LỤC 1.    GIỚI THIỆU CHUNG 3.   LỊCH SỬ HÌNH THÀNH 3.   BAN LÃNH Đ",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Nếu sinh viên quan tâm đến NGÀNH ĐÀO TẠO • Lập trình máy tính • Quản trị kinh doanh • Thiế, cần chú ý gì?",
+    "response": "Tài liệu chỉ liệt kê \"Lập trình máy tính\" và \"Quản trị kinh doanh\" là các ngành đào tạo. Về việc sinh viên quan tâm đến các ngành này cần chú ý gì, không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Làm thế nào để xin visa du học Mỹ?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Mức học phí của Đại học Ngoại thương năm 2025?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Nếu sinh viên quan tâm đến CÔNG TÁC SINH VIÊN  a. Câu lạc bộ Teambuilding, Dã ngoại Thủ lĩnh 1. H, cần chú ý gì?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Yêu cầu tiếng Anh để tốt nghiệp Đại học FPT?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Quy định về điểm rèn luyện ở Đại học Quốc gia TP.HCM?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Hạn nộp hồ sơ đại học năm nay là ngày nào?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Làm thế nào để xin visa du học Mỹ?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Mô tả chi tiết về: “Hiệp sĩ BTEC ” dành tặng cho 01 sinh viên có thành tích học tập, rèn ",
+    "response": "“Hiệp sĩ BTEC” dành tặng cho 01 sinh viên có thành tích học tập, rèn luyện xuất sắc nhất ngành học.\n\nSinh viên có điểm tổng kết trung bình chung của học kỳ cao nhất trong toàn bộ các sinh viên của từng ngành (trong giai đoạn học chuyên ngành) tại cơ sở đào tạo đó.\n\nCác điều kiện bắt buộc thỏa mãn để được xét duyệt:\n* Trong các chuyên ngành phải có tối thiểu 2 điểm M trở lên.\n* Chỉ tính trên các môn học đi, không xét các môn học lại, thi lại hay thi cải thiện điểm.\n* Trong trường hợp các sinh viên có điểm bằng nhau thì xét đến thành tích khác học tập cũng như điểm rèn luyện, hoạt động phong trào do đánh giá của Phòng CTSV.\n* Sinh viên không vi phạm các quy chế, nội quy của Nhà trường trong học kỳ xét khen thưởng.\n"
+  },
+  {
+    "instruction": "Chính sách học bổng của Đại học Kinh tế Quốc dân?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Mô tả chi tiết về: 18 HSSV có hành vi vi phạm thì tùy tính chất, mức độ, hậu quả của hành",
+    "response": "HSSV có hành vi vi phạm thì tùy tính chất, mức độ, hậu quả của hành vi để xem xét phê bình hoặc áp dụng một trong 04 hình thức kỷ luật sau:\n\na) Khiển trách: Đối với HSSV có hành vi vi phạm lần đầu và mức độ nhẹ;\n\nb) Cảnh cáo: Đối với HSSV đã bị khiển trách mà tái phạm hoặc vi phạm mức độ nhẹ nhưng hành vi vi phạm có tính chất thường xuyên hoặc mới vi phạm lần đầu nhưng mức độ tương đối nghiêm trọng;\n\nc) Đình chỉ học tập có thời hạn: Đối với HSSV đang trong thời gian bị cảnh cáo mà vẫn vi phạm kỷ luật hoặc vi phạm nghiêm trọng các hành vi học sinh, sinh viên không được làm;\n\nd) Buộc thôi học: Đối với HSSV đang trong thời gian bị cảnh cáo mà vẫn tiếp tục vi phạm kỷ luật hoặc vi phạm lần đầu nhưng có tính chất và mức độ vi phạm rất nghiêm trọng hoặc có hành vi phạm tội theo quy định của Bộ luật hình sự\n"
+  },
+  {
+    "instruction": "Làm sao để thực hiện đúng Cao Đẳng Anh Quốc BTEC FPT Cao Đẳng Anh Quốc BTEC FPT?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Chính sách học bổng của Đại học Kinh tế Quốc dân?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Nếu sinh viên quan tâm đến a. Hướng dẫn làm Assignment môn học (chuyên ngành) Một số thuật ngữ As, cần chú ý gì?",
+    "response": "Dựa vào đoạn nội dung cung cấp, sinh viên cần chú ý những điều sau khi làm Assignment môn học:\n\n*   **ASM Brief:** Tài liệu này mô tả các yêu cầu của bài ASM.\n*   **ASM Part 1 & 2:** Đây là các phần của bài ASM, mỗi phần thường chứa 2 Learning Outcome (LO) của môn học. Cần nộp ASM Part 1 để được nộp Final Report.\n*   **Final Report:** Đây là báo cáo cuối môn học, được dùng để đánh giá điểm cuối môn.\n*   **Second Chance:** Nếu Final Report bị Fail, sinh viên có 3 ngày để điều chỉnh và nộp lại (điểm tối đa là Pass).\n*   **ASM Deadline:** Phải nộp bài lên hệ thống CMS trước thời hạn này.\n*   **Frontsheet:** Khai báo thông tin đầy đủ và trung thực.\n*   **Các mốc nộp bài:** ASM Part 1, ASM Part 2 và Final Report (được hướng dẫn trong buổi học đầu tiên).\n*   **Điểm cuối môn học:** Là điểm của Final Report. Sinh viên được nộp Final Report 2 lần/môn."
+  },
+  {
+    "instruction": "Quy trình khám sức khỏe định kỳ cho sinh viên ĐH Y Hà Nội?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Điều kiện nào liên quan đến c. Giới thiệu việc làm b. Tư vấn hướng nghiệp Phòng cung cấp thông tin?",
+    "response": "Các việc làm sẽ cập nhật thường xuyên qua email, Page Phòng CTSV và Page QHDN.\n"
+  },
+  {
+    "instruction": "Điều kiện nào liên quan đến 18 HSSV có hành vi vi phạm thì tùy tính chất, mức độ, hậu quả của hành?",
+    "response": "HSSV có hành vi vi phạm thì tùy tính chất, mức độ, hậu quả của hành vi.\n"
+  },
+  {
+    "instruction": "Quy định về điểm rèn luyện ở Đại học Quốc gia TP.HCM?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Hạn nộp hồ sơ đại học năm nay là ngày nào?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Điều kiện nhập học trường Đại học Bách Khoa Hà Nội?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Chính sách học bổng của Đại học Kinh tế Quốc dân?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Làm sao để thực hiện đúng 18 HSSV có hành vi vi phạm thì tùy tính chất, mức độ, hậu quả của hành?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Điều kiện nhập học trường Đại học Bách Khoa Hà Nội?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Yêu cầu tiếng Anh để tốt nghiệp Đại học FPT?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Quy định về 15 CÔNG TÁC SINH VIÊN  & QUAN HỆ DOANH NGHIỆP là gì?",
+    "response": "Theo tài liệu, 15 CÔNG TÁC SINH VIÊN & QUAN HỆ DOANH NGHIỆP là một mục trong MỤC LỤC của tài liệu. Ngoài ra, tài liệu cũng đề cập đến các hoạt động sau liên quan đến công tác sinh viên và quan hệ doanh nghiệp:\n\n*   Giới thiệu việc làm.\n*   Tư vấn hướng nghiệp.\n*   Cung cấp thông tin về các ngành nghề, cơ hội việc làm, xu hướng thị trường lao động.\n*   Tư vấn về quá trình tìm kiếm việc làm, viết CV, chuẩn bị phỏng vấn và xây dựng mạng lưới quan hệ với doanh nghiệp.\n*   Cập nhật việc làm thường xuyên qua email, Page Phòng CTSV và Page QHDN.\n"
+  },
+  {
+    "instruction": "Nếu sinh viên quan tâm đến PEARSON PLC Pearson PLC là một tổ chức giáo dục và khảo thí hàn, cần chú ý gì?",
+    "response": "Sinh viên quan tâm đến PEARSON PLC cần chú ý đến những thông tin sau:\n\n*   Pearson PLC là một tổ chức giáo dục và khảo thí hàng đầu thế giới, chuyên cung cấp giáo trình, phương tiện học tập, công nghệ, đánh giá và các dịch vụ liên quan cho giáo viên và sinh viên ở mọi cấp độ.\n*   Pearson PLC cũng là tổ chức hàng đầu trong việc cung cấp các chương trình đào tạo điện tử, phát triển đề thi, dịch vụ xử lý và đánh giá cho các tổ chức giáo dục và các cơ quan sự nghiệp trên khắp thế giới.\n*   Tổ chức Giáo dục Quốc tế Pearson là tổ chức cấp nhiều loại bằng cấp có giá trị công nhận quốc tế, từ những chứng chỉ học thuật như Pearson Edexcel GCSEs đến các chứng chỉ nghề nghiệp như Pearson BTEC giúp sinh viên có thể đạt được ước mơ hoài bão về học tập và sự nghiệp.\n"
+  },
+  {
+    "instruction": "Điều kiện nào liên quan đến CAO ĐẲNG ANH QUỐC  BTEC FPT Graduation Ceremony Được thành lập trên cơ?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Quy định về điểm rèn luyện ở Đại học Quốc gia TP.HCM?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Hạn nộp hồ sơ đại học năm nay là ngày nào?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Quy định về PEARSON PLC Pearson PLC là một tổ chức giáo dục và khảo thí hàn là gì?",
+    "response": "PEARSON PLC là một tổ chức giáo dục và khảo thí hàng đầu thế giới, chuyên cung cấp giáo trình, phương tiện học tập, công nghệ, đánh giá và các dịch vụ liên quan cho giáo viên và sinh viên ở mọi cấp độ. Pearson PLC cũng là tổ chức hàng đầu trong việc cung cấp các chương trình đào tạo điện tử, phát triển đề thi, dịch vụ xử lý và đánh giá cho các tổ chức giáo dục và các cơ quan sự nghiệp trên khắp thế giới. Tổ chức Giáo dục Quốc tế Pearson là tổ chức cấp nhiều loại bằng cấp có giá trị công nhận quốc tế. Từ những chứng chỉ học thuật như Pearson Edexcel GCSEs đến các chứng chỉ nghề nghiệp như Pearson BTEC giúp sinh viên có thể đạt được ước mơ hoài bão về học tập và sự nghiệp.\n"
+  },
+  {
+    "instruction": "Chính sách học bổng của Đại học Kinh tế Quốc dân?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Mô tả chi tiết về: 3 CƠ SỞ CẦN THƠ CƠ SỞ HCM CƠ SỞ HÀ NỘI CƠ SỞ ĐÀ NẴNG",
+    "response": "Tài liệu cung cấp thông tin chi tiết về 4 cơ sở:\n\n*   **Cơ sở Hà Nội:**\n    *   Địa chỉ: Phòng D107, Tòa D - trường Cao đẳng FPT Polytechnic, Trịnh Văn Bô, Phương Canh, Nam Từ Liêm, Hà Nội\n    *   Hotline: 024 7309 9588\n    *   Email: sro.btec.hn@fe.edu.vn\n*   **Cơ sở Hồ Chí Minh:**\n    *   Địa chỉ: Tầng trệt Toà F, Công Viên Phần Mềm Quang Trung, P. Tân Chánh Hiệp, Quận 12, TP HCM\n    *   Hotline: 028 7309 9679\n    *   Email: sro.btec.hcm@fe.edu.vn\n*   **Cơ sở Đà Nẵng:**\n    *   Địa chỉ: R. Student Affairs , Tầng 1, 66 Võ Văn Tần, Thanh Khê, Đà Nẵng\n    *   Hotline: 023 6730 3868\n    *   Email: sro.btec.dn@fe.edu.vn\n*   **Cơ sở Cần Thơ:**\n    *   Địa chỉ: Phòng B6, Lầu 8 - Số 41, Cách Mạnh Tháng 8, phường An Hoà, Quận Ninh Kiều, TP. Cần Thơ\n    *   Hotline: 029 2730 3386\n    *   Email: sro.btec.ct@fe.edu.vn\n"
+  },
+  {
+    "instruction": "Làm sao để thực hiện đúng CAO ĐẲNG ANH QUỐC  BTEC FPT Graduation Ceremony Được thành lập trên cơ?",
+    "response": "Không có thông tin trong tài liệu về cách thực hiện đúng CAO ĐẲNG ANH QUỐC BTEC FPT Graduation Ceremony Được thành lập trên cơ sở.\n"
+  },
+  {
+    "instruction": "Quy định về điểm rèn luyện ở Đại học Quốc gia TP.HCM?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Hạn nộp hồ sơ đại học năm nay là ngày nào?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Quy định về điểm rèn luyện ở Đại học Quốc gia TP.HCM?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Làm thế nào để xin visa du học Mỹ?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Điều kiện nhập học trường Đại học Bách Khoa Hà Nội?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Mức học phí của Đại học Ngoại thương năm 2025?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Quy trình khám sức khỏe định kỳ cho sinh viên ĐH Y Hà Nội?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Điều kiện nào liên quan đến QUAN HỆ DOANH NGHIỆP a. Hoạt động trải nghiệm: Workshop, Fieldtrip 19?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Cách đăng ký vé xe buýt miễn phí tại TP.HCM?",
+    "response": "Không có thông tin trong tài liệu.\n"
+  },
+  {
+    "instruction": "Điều kiện nào liên quan đến Cao Đẳng Anh Quốc BTEC FPT Cao Đẳng Anh Quốc BTEC FPT?",
+    "response": "Cao Đẳng Anh Quốc BTEC FPT được thành lập trên cơ sở liên kết giữa Tổ chức giáo dục FPT Education và Tổ chức giáo dục và khảo thí Pearson – Vương Quốc Anh, được công nhận là đơn vị đào tạo chính thức chương trình BTEC HND tại Việt Nam.\n"
+  }
+]
